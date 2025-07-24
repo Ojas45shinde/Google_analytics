@@ -24,3 +24,8 @@ This project is a data analysis of Google-related metrics using Python and Jupyt
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+ Author:
+Ojas Shinde
+
+Computer Engineering Student & Data Enthusiast   
